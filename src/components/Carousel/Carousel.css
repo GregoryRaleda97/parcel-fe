@@ -1,0 +1,17 @@
+.carousel {
+    background-color: rgb(39, 187, 224);
+    position: relative;
+    align-items: center;
+    margin-top: 117px;
+    max-width: 100%;
+    padding: 10px;
+    z-index: -1;
+}
+
+.slide {
+    margin-top: 0px;
+    max-width: 100%;
+    align-items: center;
+    border-radius: 30px;
+}
+

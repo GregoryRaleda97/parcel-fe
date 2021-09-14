@@ -1,0 +1,30 @@
+.footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+ }
+ 
+ .footer__links {
+     display: flex;
+ }
+ 
+ .footer__links > a {
+     text-decoration: none;
+     color: rgb(0, 0, 0);
+     font-weight: 500;
+     position: relative;
+     left: 20px;
+     font-size: 12px;
+     margin: 10px;
+ }
+ 
+ .footer {
+     background: rgb(233, 233, 233);
+ }
+ 
+ .footer_icon {
+     display: flex;
+     gap: 10px;
+     margin-left: 800px;
+     align-items: center;
+ }
